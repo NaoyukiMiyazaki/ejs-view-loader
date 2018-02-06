@@ -31,4 +31,4 @@ options: {
 }
 ```
 
-[glob]((https://github.com/isaacs/node-glob#glob-primer))
+[glob](https://github.com/isaacs/node-glob#glob-primer)
