@@ -10,6 +10,10 @@ insert_final_newline = true
 [*.{js,json,yml}]
 indent_size = 2
 
+[*.ejs]
+trim_trailing_whitespace = false
+insert_final_newline = false
+
 [*.md]
 trim_trailing_whitespace = false
 insert_final_newline = false
